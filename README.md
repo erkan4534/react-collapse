@@ -1,3 +1,3 @@
 # react-collapse
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/reactjs-sample-project-87isq2)
+https://react-collapse-ex.stackblitz.io/
