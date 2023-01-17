@@ -13,6 +13,14 @@ import React from 'react';
 //     </div>);
 // };
 
+/*
+ *İlk constructor --->state initialization
+ * render metodu ilk defa calisti
+ * onClick eventi calisti
+ * setState state nesnesini güncelledi-->triggered render
+ * render metodu güncel JSX i sayfada gosteriyor
+ */
+
 class Collapse extends React.Component {
   constructor() {
     super();
